@@ -169,7 +169,7 @@ project and made it possible:
 
 <!-- [![Telegram](https://img.shields.io/badge/Telegram-@theshubhamgundu-2CA5E0?style=social&logo=telegram&logoColor=000000)](https://t.me/theshubhamgundu) -->
 [![Follow Me](https://img.shields.io/github/followers/theshubhamgundu?style=social&label=Github&maxAge=2592000)](https://github.com/theshubhamgundu "Follow Me")
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-theshubhamgundu-blue?style=flat&logo=linkedin&logoColor=b0c0c0&labelColor=363D44)](https://www.linkedin.com/in/theshubhamgundu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shubhamgundu-blue?style=flat&logo=linkedin&logoColor=b0c0c0&labelColor=363D44)](https://www.linkedin.com/in/shubhamgundu/)
 [![Tweet about this project](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Ftheshubhamgundu)](https://twitter.com/intent/tweet?text=Check+out+this+amazing+app:&url=https%3A%2F%2Fgithub.com%2Ftheshubhamgundu%2Flanding_page "Tweet about this project")
 <!-- [![Twitter](https://img.shields.io/twitter/follow/theshubhamgundu.svg?style=social)](https://twitter.com/intent/follow?screen_name=theshubhamgundu) -->
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-theshubhamgundu-grey?style=flat&logo=instagram&logoColor=b0c0c0&labelColor=8134af)](https://www.instagram.com/theshubhamgundu) -->
