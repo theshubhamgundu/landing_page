@@ -7,10 +7,10 @@
   <p align="center">
     Ai SaaS Landing template for your next project
     <br />
-    <a href="https://ai-saas-landing-starter.vercel.app/"><strong>Explore »</strong></a>
+    <a href="https://starforge-landing-ai-page.vercel.app/"><strong>Explore »</strong></a>
     <br />
     <br />
-    <a href="https://ai-saas-landing-starter.vercel.app/">Website</a>
+    <a href="https://starforge-landing-ai-page.vercel.app/">Website</a>
     &middot;
     <a href="https://github.com/theshubhamgundu/landing_page/issues">Issues</a>
     &middot;
